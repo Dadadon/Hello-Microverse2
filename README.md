@@ -11,8 +11,8 @@
 ## Author
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/dadadon)
-- Twitter: [@twitterhandle](https://twitter.com/davianberoni)
+- GitHub: [Dadadon](https://github.com/dadadon)
+- Twitter: [Davian Beroni](https://twitter.com/davianberoni)
 
 ## Acknowledgments
 
